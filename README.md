@@ -1,3 +1,10 @@
+
+
+# Hey there, I'm Aline! 👋
+
+- 🌱 I'm web developer jr.
+- 📚 I’m currently learning JavaScript
+
 <center>
 <table>
     <tr>
@@ -7,13 +14,7 @@
 </table>
 </center> 
 
-# Hey there, I'm Aline! 👋
-
-## 🌱 I'm web developer jr.
-
-## 📚 I’m currently learning JavaScript
-
-## 📫 How to reach me: 
+### 📫 How to reach me: 
 🐦 [Twitter](https://www.twitter.com/im4line)
 📸 [Instagram](https://www.instagram.com/alinearaujodev)
 💼 [LinkedIn](https://www.linkedin.com/in/srtalinearaujo)
