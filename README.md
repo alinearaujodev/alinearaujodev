@@ -1,5 +1,3 @@
-![Capa](https://github.com/alinearaujodev/alinearaujodev/blob/master/Bluegreen%20Math%20Education%20Presentation.png)
-
 <center>
 <table>
     <tr>
@@ -11,12 +9,11 @@
 
 # Hey there, I'm Aline! 👋
 
-## 📚 I'm Software Engineering Student at UnB
+## 🌱 I'm web developer jr.
 
-## 🌱 I’m currently learning ... JS and PHP
+## 📚 I’m currently learning JavaScript
 
 ## 📫 How to reach me: 
-🚀 [Site](https://www.alinearaujo.dev)
 🐦 [Twitter](https://www.twitter.com/im4line)
-📸 [Instagram](https://www.instagram.com/im4line)
+📸 [Instagram](https://www.instagram.com/alinearaujodev)
 💼 [LinkedIn](https://www.linkedin.com/in/srtalinearaujo)
