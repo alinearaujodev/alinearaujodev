@@ -2,7 +2,8 @@
 
 # Hey there, I'm Aline! 👋
 
-- 🌱 I'm web developer jr.
+- 🇧🇷 I'm brazilian
+- 🌱 I'm jr. web developer 
 - 📚 I’m currently learning JavaScript
 
 <center>
@@ -15,6 +16,7 @@
 </center> 
 
 ### 📫 How to reach me: 
+📧 [Email](https://malito:alinearaujodev@gmail.com)
 🐦 [Twitter](https://www.twitter.com/im4line)
 📸 [Instagram](https://www.instagram.com/alinearaujodev)
 💼 [LinkedIn](https://www.linkedin.com/in/srtalinearaujo)
