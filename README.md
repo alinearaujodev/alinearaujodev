@@ -16,7 +16,7 @@
 </center> 
 
 ### 📫 How to reach me: 
-📧 [Email](malito:alinearaujodev@gmail.com)
+📧 [Email](mailto:alinearaujodev@gmail.com)
 🐦 [Twitter](https://www.twitter.com/im4line)
 📸 [Instagram](https://www.instagram.com/alinearaujodev)
 💼 [LinkedIn](https://www.linkedin.com/in/srtalinearaujo)
