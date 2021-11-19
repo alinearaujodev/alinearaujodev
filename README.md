@@ -4,7 +4,7 @@
 
 - 🇧🇷 I'm brazilian
 - 🌱 I'm jr. web developer 
-- 📚 I’m currently learning JavaScript
+- 📚 I’m currently learning JavaScript and Python
 
 <center>
 <table>
