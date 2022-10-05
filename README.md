@@ -1,22 +1,14 @@
 
 
-# Hey there, I'm Aline! 👋
+# Oie, sou Aline! 👋
 
-- 🇧🇷 I'm brazilian
-- 🌱 I'm jr. web developer 
-- 📚 I’m currently learning JavaScript and Python
+- 🇧🇷 Sou brasileira
+- 🌱 Sou uma desenvolvedora web jr. 
+- 📚 Atualmente estou focando meus estudos em JavaScript & Python
+- 👩🏾‍🏫 Estou trabalhando como freelancer, além de estar ensinando programação aos pequenos com blockly 
 
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinearaujodev&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=alinearaujodev&theme=buefy"/></td>
-    </tr>   
-</table>
-</center> 
 
-### 📫 How to reach me: 
+
+### 📫 Vamos conversar: 
 📧 [Email](mailto:alinearaujodev@gmail.com)
-🐦 [Twitter](https://www.twitter.com/im4line)
-📸 [Instagram](https://www.instagram.com/alinearaujodev)
-💼 [LinkedIn](https://www.linkedin.com/in/srtalinearaujo)
+💼 [LinkedIn](https://www.linkedin.com/in/alinearaujodev)
