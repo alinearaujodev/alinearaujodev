@@ -2,12 +2,9 @@
 
 # Oie, sou Aline! 👋
 
-- 🇧🇷 Sou brasileira
-- 🌱 Sou uma desenvolvedora web jr. 
+- 🇧🇷 Sou uma brasileira, desenvolvedora web
 - 📚 Atualmente estou focando meus estudos em JavaScript & Python
-- 👩🏾‍🏫 Estou trabalhando como freelancer, além de estar ensinando programação aos pequenos com blockly 
-
-
+- 👩🏾‍🏫 Estou trabalhando como freelancer, além de estar ensinando programação para crianças com blockly 
 
 ### 📫 Vamos conversar: 
 📧 [Email](mailto:alinearaujodev@gmail.com)
